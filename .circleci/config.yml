@@ -1,4 +1,4 @@
-# Use the latest 2.1 version of CircleC 
+# Use the latest 2.1 version of Circle 
 # See: https://circleci.com/dcs/c
 version: 2.1
 
